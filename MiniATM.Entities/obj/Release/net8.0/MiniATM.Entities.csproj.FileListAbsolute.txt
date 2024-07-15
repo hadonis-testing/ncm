@@ -1,0 +1,12 @@
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\bin\Release\net8.0\MiniATM.Entities.deps.json
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\bin\Release\net8.0\MiniATM.Entities.dll
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\bin\Release\net8.0\MiniATM.Entities.pdb
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\obj\Release\net8.0\MiniATM.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\obj\Release\net8.0\MiniATM.Entities.AssemblyInfoInputs.cache
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\obj\Release\net8.0\MiniATM.Entities.AssemblyInfo.cs
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\obj\Release\net8.0\MiniATM.Entities.csproj.CoreCompileInputs.cache
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\obj\Release\net8.0\MiniATM.Entities.sourcelink.json
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\obj\Release\net8.0\MiniATM.Entities.dll
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\obj\Release\net8.0\refint\MiniATM.Entities.dll
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\obj\Release\net8.0\MiniATM.Entities.pdb
+D:\Project\.NET\Clean-Architecture-MiniATM\MiniATM.Entities\obj\Release\net8.0\ref\MiniATM.Entities.dll

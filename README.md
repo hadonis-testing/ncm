@@ -15,3 +15,25 @@ graph TD;
     B-->D;
     C-->D;
 ```
+
+---
+title: Example Git diagram
+---
+```gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   branch huytd34
+   checkout huytd34
+   commit
+   commit
+   merge develop
+   checkout develop
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
+```

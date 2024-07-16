@@ -6,3 +6,12 @@
 ![GitHub License](https://img.shields.io/github/license/hardingadonis/net-core-microservices)
 
 > .Net Core Microservices using Clean Architecture
+
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```

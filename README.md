@@ -16,10 +16,12 @@ graph TD;
     C-->D;
 ```
 
+
+```mermaid
 ---
 title: Example Git diagram
 ---
-```gitGraph
+gitGraph
    commit
    commit
    branch develop
@@ -29,8 +31,8 @@ title: Example Git diagram
    checkout huytd34
    commit
    commit
-   merge develop
    checkout develop
+   merge develop
    commit
    checkout main
    merge develop

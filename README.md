@@ -32,7 +32,7 @@ gitGraph
    commit
    commit
    checkout develop
-   merge develop
+   merge huytd34
    commit
    checkout main
    merge develop

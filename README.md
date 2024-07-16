@@ -32,6 +32,11 @@ gitGraph
    commit
    commit
    checkout develop
+   commit
+   commit
+   checkout main
+   commit
+   checkout develop
    merge huytd34
    commit
    checkout main
